@@ -1,0 +1,290 @@
+[
+	{
+		"id": "31",
+		"img": "imgs/f_sale/01/00.jpg",
+		"desi": "专属中老年的多维",
+		"comName": "多维片2瓶",
+		"p_price": "79",
+		"last_price": "99",
+		"type": "f_sale_01"
+	},
+	{
+		"id": "32",
+		"img": "imgs/f_sale/01/01.jpg",
+		"desi": "毛巾、浴巾",
+		"comName": "土耳其进口毛巾三件套",
+		"p_price": "55",
+		"last_price": "60",
+		"type": "f_sale_01"
+	},
+	{
+		"id": "33",
+		"img": "imgs/f_sale/01/02.jpg",
+		"desi": "保温杯",
+		"comName": "意大利进口保温杯车载商务杯",
+		"p_price": "155",
+		"last_price": "299",
+		"type": "f_sale_01"
+	},
+	{
+		"id": "34",
+		"img": "imgs/f_sale/01/03.jpg",
+		"desi": "香水",
+		"comName": "法国车载香水",
+		"p_price": "158",
+		"last_price": "168",
+		"type": "f_sale_01"
+	},
+	{
+		"id": "35",
+		"img": "imgs/f_sale/01/04.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "89",
+		"last_price": "185",
+		"type": "f_sale_01"
+	},
+	{
+		"id": "36",
+		"img": "imgs/f_sale/01/06.jpg",
+		"desi": "地毯",
+		"comName": "迪士尼疯狂动物城地毯",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_01"
+	},
+	{
+		"id": "37",
+		"img": "imgs/f_sale/01/05.jpg",
+		"desi": "睡眠面膜",
+		"comName": "进口面膜",
+		"p_price": "99",
+		"last_price": "189",
+		"type": "f_sale_01"
+	},
+	{
+		"id": "38",
+		"img": "imgs/f_sale/02/01.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "39",
+		"img": "imgs/f_sale/02/02.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "40",
+		"img": "imgs/f_sale/02/03.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "41",
+		"img": "imgs/f_sale/02/04.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "42",
+		"img": "imgs/f_sale/02/05.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "29",
+		"last_price": "59",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "43",
+		"img": "imgs/f_sale/02/06.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "44",
+		"img": "imgs/f_sale/02/07.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "45",
+		"img": "imgs/f_sale/02/08.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "46",
+		"img": "imgs/f_sale/02/09.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "47",
+		"img": "imgs/f_sale/02/10.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "48",
+		"img": "imgs/f_sale/02/11.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "49",
+		"img": "imgs/f_sale/02/12.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "50",
+		"img": "imgs/f_sale/02/13.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "51",
+		"img": "imgs/f_sale/02/14.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_02"
+	},
+	{
+		"id": "52",
+		"img": "imgs/f_sale/03/01.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_03"
+	},
+	{
+		"id": "53",
+		"img": "imgs/f_sale/03/02.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_03"
+	},
+	{
+		"id": "54",
+		"img": "imgs/f_sale/03/03.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_03"
+	},
+	{
+		"id": "55",
+		"img": "imgs/f_sale/03/04.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_03"
+	},
+	{
+		"id": "56",
+		"img": "imgs/f_sale/03/05.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "79",
+		"last_price": "99",
+		"type": "f_sale_03"
+	},
+	{
+		"id": "57",
+		"img": "imgs/f_sale/03/06.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_03"
+	},
+	{
+		"id": "58",
+		"img": "imgs/f_sale/03/07.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_03"
+	},
+	{
+		"id": "59",
+		"img": "imgs/f_sale/03/08.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_03"
+	},
+	{
+		"id": "60",
+		"img": "imgs/f_sale/03/09.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_03"
+	},
+	{
+		"id": "61",
+		"img": "imgs/f_sale/02/10.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_03"
+	},
+	{
+		"id": "62",
+		"img": "imgs/f_sale/03/11.jpg",
+		"desi": "睡眠面膜",
+		"comName": "韩国进口面膜",
+		"p_price": "99",
+		"last_price": "199",
+		"type": "f_sale_03"
+	}
+]

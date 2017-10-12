@@ -1,0 +1,90 @@
+ footer{
+    background-color: #fff;
+    margin-top: 25px;
+    overflow: hidden;
+ }
+ footer .footer0{
+ 	width: 1000px;
+	margin: 0 auto;
+	border-bottom: 1px solid #d7d7d7; 
+	overflow: hidden;
+ }
+ footer .footer0>img{
+ 	width: 100%;
+ }
+ footer .footer1{
+	width: 1000px;
+	margin: 40px auto 0;
+	overflow: hidden;
+	
+ }
+ footer .footer1 .footer1_left{
+	width: 760px;
+} 
+footer .footer1 .fldl{
+	float: left;
+	padding: 0 47px 0 40px;
+} 
+footer .footer1 .fldl h5 {
+    color: #666;
+    font-size: 14px;
+    font-weight: normal;
+    height: 31px;
+    color: #666666;
+}
+footer .footer1 .fldl a{
+	font-size: 12px;
+	color: #666;
+}
+footer .footer1 .footer1_right{
+	float: left;
+	margin-left: 20px;
+} 
+footer .footer1 .footer1_right ul li{
+	float: left;
+	text-align: center;
+	padding: 0 10px;
+} 
+footer .footer1 .footer1_right ul li>img{
+	margin-top: 10px;
+}
+footer .footer1 .footer1_right ul li>p{
+	font-size: 14px;
+	color: #666666;
+}
+footer .footer2{
+	margin-top: 20px;
+	border-bottom:4px solid #a90202 ;
+	overflow: hidden;
+}
+footer .footer2 ul {
+	margin: 0 auto;
+	width: 484px;
+	height: 36px;
+	line-height: 36px;
+}
+footer .footer2 ul li{
+	float: left;
+	padding: 0 10px ;
+	height: 10px;
+}
+footer .footer2 ul  span{
+	float: left;	
+	color: #666;
+}
+footer .footer2 ul li:nth-child(1){
+	border: none;
+}
+footer .footer2 ul li a{
+	color: #666;
+	font-size: 12px;
+}
+footer .footer3{
+	overflow: hidden;
+}
+footer .footer3 p{
+	text-align: center;
+	padding-top: 10px;
+    color: #7e7e7e;
+    line-height: 25px;
+}

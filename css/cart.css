@@ -1,0 +1,84 @@
+.main {
+	width: 1000px;
+	margin: 0px auto;
+}
+
+#box {
+	width: 1000px;
+	margin: 20px auto;
+	border-spacing: 0;
+	border-collapse: collapse;
+	border: 1px solid #fff;
+	overflow: hidden;
+}
+
+#box tr td {
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+}
+#box thead td {
+	height: 50px;
+	background: #f2f2f2;
+}
+
+#box tbody {
+	border: 1px solid #ccc;
+	width: 999px;
+}
+#box tbody tr td:nth-child(1){
+	width: 70px;
+}
+
+#box tbody tr .num a {
+	display: inline-block;
+	width: 29px;
+	height: 29px;
+	border: 1px solid #ccc;
+	color: #ccc;
+	text-align: center;
+	line-height: 25px;
+	border-radius: 15px;
+}
+#box tbody tr .num .tab {
+	width: 30px;
+	height: 15px;
+	background: #fff;
+	border: 0;
+	text-align: center;
+}
+
+#paynow{
+	height: 50px;
+	overflow: hidden;
+	line-height: 50px;
+	font-size: 16px;
+	font-weight: 900;
+	width: 1000px;
+	text-align: right;
+	margin: 0 auto;
+	color: #93193e;
+}
+#paynow .zong{
+	width: 200px;
+	margin-left: 600px;
+	float: left;
+	
+}
+#paynow .zong span{
+	font-size: 18px;
+}
+#paynow .btn_buy {
+	float: left;
+	margin-left: 20px;
+}
+#paynow .btn_buy a{
+	margin-top:-5px ;
+background-color: #c41f3a;
+    color: #fff;
+    display: block;
+    font-size: 20px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    width: 110px;
+}

@@ -1,0 +1,352 @@
+.header{
+	height:124px;
+}
+
+.headerwrap{
+	height: 124px;
+	width: 1000px;
+	margin: 0 auto;
+	position: relative;
+}
+.logo a {
+	background: url(../imgs/headerimgs/logo.jpg) no-repeat center center;
+	display: inline-block;
+	width: 54px;
+	height: 58px;
+	margin-top: 26px;
+	float: left;
+	margin-right: 7px;
+	background-size:100% ;
+}
+.logo a span{display: none;}
+.headerwrap .header_left{
+	width: 440px;
+	height: 29px;
+	background: yellow;
+	float: left;
+	margin-top: 47px;
+	background: url(../imgs/headerimgs/header_1.jpg);
+	margin-right: 7px;
+}
+.headerwrap .search_box{
+	float: left;
+	margin-top: 35px;
+	width: 358px;
+	
+}
+.headerwrap .search_box form{
+	float: left;
+	width: 358px;
+	
+}
+.headerwrap .search_box #search{
+	width: 305px;
+	height: 32px;
+	border: 3px solid #94193f;
+	float: left; 
+	line-height: 35px;
+	border-right:none ;
+	text-indent: 0.5em;
+}
+.headerwrap .search_box input:nth-child(2){
+	width: 50px;
+	height: 40px;
+	border: 3px solid #94193f;
+	float: left; 
+	font-size: 16px;
+	line-height: 35px;
+	border-left:none ;
+	background: #94193F;
+	color: white;
+}
+.headerwrap .search_box ul li{
+	font-size: 12px;
+	float: left;
+	margin-top:5px ;
+	padding-left: 7px;
+}
+.headerwrap .search_box ul li a{
+	color: #8c8c8c;
+}
+.headerwrap .search_box ul li:nth-child(1){
+	padding: 0px;
+}
+.headerwrap  .shoppingcar{
+	height: 41px;
+	width: 112px;
+	float: right;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+	
+}
+.headerwrap  .shoppingcar .car{
+	border: 1px solid #d8d8d8;
+	width: 114px;
+	height: 40px;
+	z-index: 99999;
+	background: #f9f9f9;
+	position: relative;
+
+}
+.headerwrap  .shoppingcar .car i{
+	margin-left:9px ;
+	float: left;
+	margin-top:11px ;
+	position: relative;
+	color: #a84664;
+	
+}
+.headerwrap  .shoppingcar .car span{
+	margin-left:2px ;
+	float: left;
+	margin-top:11px ;
+	position: relative;
+	color: #666666;
+	
+}
+
+.headerwrap  .shoppingcar .card{
+	width: 308px;
+	min-height:57px;
+	position: absolute;
+	overflow: hidden;
+	border: 1px solid #E2E2E2;
+	right: -4px;
+	top: 40px;
+	display: none;
+	background: #f9f9f9;
+}
+/*//购物车卡片*/
+.headerwrap  .shoppingcar .card li{
+	list-style: none;
+	width: 100%;
+	overflow: hidden;
+}
+.headerwrap  .shoppingcar .card .carLi{
+	border-bottom: 1px dashed #cccccc;
+}
+.headerwrap  .shoppingcar .card .carpic{
+    width: 49px;
+    height: 49px;
+    border: 1px solid #e7e7e7;
+	float: left;
+    display: inline-block;
+    margin:5px 0px 5px 5px ;
+}
+.headerwrap  .shoppingcar .card .cardInfo{
+	float: left;
+    margin:5px 0px 5px 5px ;
+    width: 160px;
+}
+.headerwrap  .shoppingcar .card h4{
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: 2px;
+}
+.headerwrap  .shoppingcar .card .cardPrice{
+	font-size: 14px;
+	padding: 11px 15px 0  0 ;
+	float: right;
+}
+.headerwrap  .shoppingcar .card .cardPrice a{
+	font-size: 12px;
+}
+.headerwrap  .shoppingcar .num{
+	position: absolute;
+	height: 16px;
+	width: 16px;
+	border-radius:8px ;
+	background: #a84664;
+	right: 19px;
+	top: -8px;
+	font-size: 12px;
+	text-align: center;
+	line-height: 16px;
+	color: white;
+}
+.shoppingcar .card p{
+	font-size: 14px;
+	color: #666666;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: 57px;
+}
+.shoppingcar:hover .card{
+	border: 1px solid #E2E2E2;
+	display: block;
+}
+.shoppingcar:hover .car{
+	border: 1px solid #E2E2E2;
+	border-bottom:none;
+	
+}
+.shoppingcar .card .totalMoney {
+	overflow: hidden;	
+}
+.shoppingcar .card .totalMoney .pay_p{
+	display: inline-block;
+	float: left;
+	width: 175px;
+}
+.shoppingcar .card .totalMoney .a_go_car {
+    background-color: #94193f;
+    color: #fff;
+    display: inline-block;
+    float: right;
+    height: 32px;
+    line-height: 32px;
+    margin-right: 16px;
+    margin-top: 13px;
+    text-align: center;
+    width: 104px;
+}
+/*导航*/
+nav {
+	height: 39px;
+	width: 100%;	
+	border-bottom: 2px solid #94193f;
+}
+nav>ul{
+	width: 1000px;	
+	height: 39px;
+	margin: 0 auto;
+}
+nav>ul>li:nth-child(1)>a{
+	color: white;
+}
+nav>ul>li:nth-child(2){
+	margin-left: 10px;
+}
+nav>ul>li{
+	float:left;
+	height: 39px;
+	line-height: 39px;
+	text-align: center;
+	width: 112px;
+	
+}
+nav>ul>li>a{
+	color: #303030;
+}
+nav>ul>li:nth-child(1){
+	width: 215px;
+	background: #94193f;
+}
+nav>ul>li>.nav_li:hover {
+	color: #94193f;
+}
+nav>ul>li>ul{
+	height: 380px;
+	background: rgba(255,255,255,0.8);
+	overflow: hidden;
+	position: relative;
+	top: 2px;
+	left: 0;
+}
+.nav_ul li{
+	width: 215px;
+	height: 32px;
+	line-height: 32px;
+	margin-top: 17px;
+}
+nav>ul>li>ul>li>a span{
+	margin-left: 2px;
+	font-size: 14px;
+	color: black;
+	float: left;
+}
+.nav_ul {
+	z-index: 8;
+}
+.nav_ul li a i{
+	background: url(../imgs/headerimgs/list.png) ;
+	display: block;
+	float: left;
+	width: 20px;
+	height: 30px;
+	margin-left: 50px;
+}
+.nav_ul li:nth-child(1) a i{background-position: 0 -412px;} 
+.nav_ul li:nth-child(2) a i{background-position: 0 -118px;} 
+.nav_ul li:nth-child(3) a i{background-position: 0 -160px;} 
+.nav_ul li:nth-child(4) a i{background-position: 0 -202px;} 
+.nav_ul li:nth-child(5) a i{background-position: 0 -244px;} 
+.nav_ul li:nth-child(6) a i{background-position: 0 -328px;} 
+.nav_ul li:nth-child(7) a i{background-position: 0 -370px;} 
+
+.nav_ul li a:hover i{
+	background-position-x:-80px;
+}
+.nav_ul li:nth-child(1) a:hover i{
+	background-position-x:-79px;
+}
+.nav_ul li:hover span{
+	color: #cf4262;
+}
+.nav_ul li:hover{
+	border: none;
+	background: white;
+}
+/*banner*/
+
+#banner{
+	position: relative;
+	width: 100%;
+	height: 380px;
+	margin: 0 auto;
+	}
+#banner ul{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+#banner ul li{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	text-align: center;
+	left: 0;
+	top: 0;
+	overflow: hidden;
+	/*z-index: 5;*/
+}
+#banner ul li img{
+	margin: 0 -100%;
+	height: 100%;
+}
+
+#banner ul li{
+	opacity: 0;
+}
+#banner ul li:nth-child(1){
+	opacity: 1;
+}
+#banner .banner_btn{
+	width: 100%;
+	position: absolute;
+	bottom: 10px;
+	left: 0;
+	z-index: 6;
+	text-align: center;
+	}
+#banner .banner_btn .banner_btn_wrap{
+	width: 135px;
+	height: 28px;
+	margin: 0 auto;
+	background: rgba(205,205,205,0.8);
+	border-radius:14px ;
+}
+#banner .banner_btn .banner_btn_wrap span{
+	display: inline-block;
+	height: 11px;
+	width: 11px;
+	background: white;
+	border-radius: 6px;
+	margin: 7.5px 4.5px;
+}
+#banner .banner_btn .banner_btn_wrap .active{
+	background: #cc2256;
+}
